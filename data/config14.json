@@ -1,0 +1,124 @@
+{
+  "templateId": "14",
+  "metaTitle": "Web3 Club",
+  "favicon": "/favicon.ico",
+  "heroTitle": "ETERNAL PROFIT COMMUNITY",
+  "heroGradientText": "Community",
+  "heroSubtitle": "The tool teams love is easy to implement, and checks all your admin, security & compliance needs",
+  "heroImg1": "/hero14.png",
+  "heroImg2": "/img2.png",
+  "heroImg3": "/img3.png",
+  "avatar1": "/avatar14.png",
+  "avatar2": "/avatar2.png",
+  "avatar3": "/avatar3.png",
+  "clubIntroduction1": "Welcome to the Eternal Profit Community!We are a professional community focused on blockchain technology innovation and DeFi investment.",
+  "clubIntroduction2": "Here, you will gain access to the most cutting-edge Alpha information, professional investment advice, and a wealth of learning resources.",
+  "clubLink1": "",
+  "clubLink2": "",
+  "clubIcon1": "/section14_1.png",
+  "clubIcon2": "/section14_2.png",
+  "socials": [
+    {
+      "name": "Twitter/X",
+      "link": "https://x.com/joinweb3club",
+      "text": "Follow",
+      "icon": "/twitter.png"
+    },
+    {
+      "name": "Discord",
+      "link": "https://discord.gg/fGbzTF9j",
+      "text": "Join",
+      "icon": "/discord.png"
+    },
+    {
+      "name": "Telegram",
+      "link": "https://t.me/joinWeb3Club",
+      "text": "Join",
+      "icon": "/telegram.png"
+    },
+    {
+      "icon": "/youtube.png",
+      "name": "YouTube",
+      "text": "Subscribe",
+      "link": "https://www.youtube.com/@Web3Club"
+    }
+  ],
+  "news": [
+    {
+      "image": "/news1.png",
+      "title": "Weekly Alpha Information Summary",
+      "category": "designer",
+      "time": "now",
+      "source": "Twitter Alpha",
+      "link": ""
+    },
+    {
+      "image": "/news2.png",
+      "title": "Complete DeFi Beginner's Guide",
+      "category": "designer",
+      "time": "2015",
+      "source": "Twitter Alpha",
+      "link": ""
+    },
+    {
+      "image": "/news3.png",
+      "title": "Latest Project Research Report Analysis",
+      "category": "designer",
+      "time": "2011",
+      "source": "Twitter Alpha",
+      "link": ""
+    },
+    {
+      "image": "/news4.png",
+      "title": "Market Trend Analysis Report",
+      "category": "designer",
+      "time": "2010",
+      "source": "Twitter Alpha",
+      "link": ""
+    },
+    {
+      "image": "/news1.png",
+      "title": "NFT Market Insights and Trends",
+      "category": "analyst",
+      "time": "2024",
+      "source": "Crypto News",
+      "link": ""
+    },
+    {
+      "image": "/news2.png",
+      "title": "Layer 2 Solutions Comparison",
+      "category": "developer",
+      "time": "2024",
+      "source": "Tech Review",
+      "link": ""
+    },
+    {
+      "image": "/news3.png",
+      "title": "Staking Rewards Optimization Guide",
+      "category": "investor",
+      "time": "2024",
+      "source": "DeFi Pulse",
+      "link": ""
+    },
+    {
+      "image": "/news4.png",
+      "title": "Cross-Chain Bridge Security Analysis",
+      "category": "security",
+      "time": "2024",
+      "source": "Security Labs",
+      "link": ""
+    }
+  ],
+  "heroImg": "/hero14.png",
+  "lifeTimeImg": "/lifetime13.png",
+  "quarterImg": "/quarter13.png",
+  "monthImg": "/month13.png",
+  "yearImg": "/year13.png",
+  "lifeTimeText": "For organizing every corner of your work & life.",
+  "monthText": "A place for small groups to plan & get organized.",
+  "yearText": "For companies using PRODUCT NAME to connect several teams & tools.",
+  "quarterText": "A place for big groups to plan & get organized.",
+  "positionImg": "/position14.png",
+  "verifyImgs": ["/aave1.png", "/bnb10.png", "/polygon10.png"],
+  "showMemberOption": true
+}
