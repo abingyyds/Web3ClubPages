@@ -120,5 +120,6 @@
   "quarterText": "A place for big groups to plan & get organized.",
   "positionImg": "/position14.png",
   "verifyImgs": ["/aave1.png", "/bnb10.png", "/polygon10.png"],
-  "showMemberOption": true
+  "showMemberOption": true,
+  "showZkpPassword": false
 }

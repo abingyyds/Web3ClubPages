@@ -123,5 +123,6 @@
   "monthImg": "/month1.png",
   "yearImg": "/year1.png",
   "verifyImgs": ["/aave.png", "/bnb.png", "/polygon.png"],
-  "showMemberOption": true
+  "showMemberOption": true,
+  "showZkpPassword": false
 }

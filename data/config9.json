@@ -114,5 +114,6 @@
   "yearImg": "/year5.png",
   "footImg": "/p5.png",
   "verifyImgs": ["/aave1.png", "/bnb.png", "/polygon.png"],
-  "showMemberOption": true
+  "showMemberOption": true,
+  "showZkpPassword": false
 }

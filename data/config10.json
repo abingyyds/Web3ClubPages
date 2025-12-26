@@ -116,5 +116,6 @@
   "showMemberOption": true,
   "blockText1": "Free with summer",
   "blockText2": "42+ Join us",
-  "blockText3": "300+ wealth"
+  "blockText3": "300+ wealth",
+  "showZkpPassword": false
 }

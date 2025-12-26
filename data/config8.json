@@ -117,5 +117,6 @@
   "verifyImgs": ["/aave1.png", "/bnb.png", "/polygon.png"],
   "showMemberOption": true,
   "badge1": "Fresh",
-  "badge2": "Summer"
+  "badge2": "Summer",
+  "showZkpPassword": false
 }

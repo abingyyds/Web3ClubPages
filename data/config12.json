@@ -121,5 +121,6 @@
   "lifeTimeText": "For organizing every corner of your work & life.",
   "monthText": "A place for small groups to plan & get organized.",
   "yearText": "For companies using PRODUCT NAME to connect several teams & tools.",
-  "quarterText": "A place for big groups to plan & get organized."
+  "quarterText": "A place for big groups to plan & get organized.",
+  "showZkpPassword": false
 }
